@@ -97,10 +97,13 @@ I’m deeply focused on:
 
 ## 🌟 Featured Projects  
 
+
+🔹 **QuickRabita** – Multi-Agent Emergency SOS System 
+🔹 **ExaminieAI** – AI-Based Exam Generation & Grading System  
 🔹 **ClimeAI** – AI-Powered Weather Intelligence Platform  
+🔹 **HeadlineAI** – Agentic AI In News & Research  
 🔹 **PersonaAgent** – Multi-Agent Conversational Copilot  
-🔹 **EduAssess** – AI-Based Exam Generation & Grading System  
-🔹 **TaskPilot** – Workflow Automation using LangGraph + FastAPI  
+
 
 💼 Explore all projects on [GitHub Repositories »](https://github.com/muhammadzainattiq)
 
