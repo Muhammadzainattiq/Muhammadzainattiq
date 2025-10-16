@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Muhammad Zain Attiq - a **CKAD-Certified Agentic AI Engineer & Full Stack Cloud Developer** 
 
- 
 🚀 Passionate about building **scalable, cloud-native Agentic AI systems** — from intelligent chatbots and copilots to enterprise-grade workflow automations.  
 🌩️ Designing AI solutions at the intersection of **Agentic AI + Cloud + Full Stack** using modern frameworks and best cloud-first practices.  
 
@@ -97,13 +96,11 @@ I’m deeply focused on:
 
 ## 🌟 Featured Projects  
 
-
-🔹 **QuickRabita** – Multi-Agent Emergency SOS System 
+🔹 **QuickRabita** – Multi-Agent Emergency SOS System  
 🔹 **ExaminieAI** – AI-Based Exam Generation & Grading System  
 🔹 **ClimeAI** – AI-Powered Weather Intelligence Platform  
 🔹 **HeadlineAI** – Agentic AI In News & Research  
 🔹 **PersonaAgent** – Multi-Agent Conversational Copilot  
-
 
 💼 Explore all projects on [GitHub Repositories »](https://github.com/muhammadzainattiq)
 
@@ -111,9 +108,19 @@ I’m deeply focused on:
 
 ## 🤝 Let’s Connect  
 
+🌐 **Website:** [zainattiq.com](https://zainattiq.com)  
+💼 **LinkedIn:** [linkedin.com/in/muhammadzainattiq](https://linkedin.com/in/muhammadzainattiq)  
+💻 **GitHub:** [github.com/Muhammadzainattiq](https://github.com/Muhammadzainattiq)  
+🎥 **YouTube:** [youtube.com/@MuhammadZainAttiq](https://www.youtube.com/@MuhammadZainAttiq)  
+🐦 **X (Twitter):** [x.com/MZainAttiq](https://x.com/MZainAttiq)  
+🧠 **LeetCode:** [leetcode.com/u/Muhammadzainattiq](https://leetcode.com/u/Muhammadzainattiq/)  
+🤗 **Hugging Face:** [huggingface.co/zainattiq](https://huggingface.co/zainattiq)  
+💡 **HackerRank:** [hackerrank.com/profile/zainatteeq](https://www.hackerrank.com/profile/zainatteeq)  
+📜 **CKAD Certified:** [credly.com/badges/edb198f5-1681-4215-a292-8342807f3dcf/public_url](https://www.credly.com/badges/edb198f5-1681-4215-a292-8342807f3dcf/public_url)  
+🔗 **Neo4j Certified:** [graphacademy.neo4j.com/u/98e895a5-bdff-44da-84f3-9114774f98d4](https://graphacademy.neo4j.com/u/98e895a5-bdff-44da-84f3-9114774f98d4/)  
+📈 **Kaggle:** [kaggle.com/zainattiq](https://www.kaggle.com/zainattiq)  
+
 📩 **Email:** contact@zainattiq.com  
-💬 **LinkedIn:** [linkedin.com/in/muhammadzainattiq](https://linkedin.com/in/muhammadzainattiq)  
-🌐 **Portfolio:** [zainattiq.com](https://zainattiq.com)
 
 ---
 
