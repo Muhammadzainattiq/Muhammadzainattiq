@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Muhammad Zain Attiq  
+# 👋 Hi, I’m Muhammad Zain Attiq - a **CKAD-Certified Agentic AI Engineer & Full Stack Cloud Developer** 
 
-**CKAD-Certified Agentic AI Engineer & Full Stack Cloud Developer**  
+ 
 🚀 Passionate about building **scalable, cloud-native Agentic AI systems** — from intelligent chatbots and copilots to enterprise-grade workflow automations.  
 🌩️ Designing AI solutions at the intersection of **Agentic AI + Cloud + Full Stack** using modern frameworks and best cloud-first practices.  
 
